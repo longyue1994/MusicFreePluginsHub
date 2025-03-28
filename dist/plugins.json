@@ -21,26 +21,6 @@
       "version": "0.0.2"
     },
     {
-      "name": "Youtube",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/youtube/index.js",
-      "version": "0.0.1"
-    },
-    {
-      "name": "bilibili",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/bilibili/index.js",
-      "version": "0.2.2"
-    },
-    {
-      "name": "suno",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/suno/index.js",
-      "version": "0.0.0"
-    },
-    {
-      "name": "udio",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/udio/index.js",
-      "version": "0.0.0"
-    },
-    {
       "name": "书音FM",
       "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/shuyinfm.js",
       "version": "0.3.6"
